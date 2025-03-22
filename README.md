@@ -1,4 +1,4 @@
-# Backpack Weight Prediction using XGBoost & CatBoost
+# Backpack Weight Prediction using XGBoost & CatBoost | Playground Series - Season 5, Episode 2
 
 ## **Overview**
 This project is part of a Kaggle competition where the goal is to predict backpack weights based on given features. The solution leverages **XGBoost** and **CatBoost** for regression, along with hyperparameter tuning using **Optuna**.
@@ -27,6 +27,7 @@ The pipeline follows these key steps:
 ## **Results**
 1. **Results:**
    - I finished top 1120 out of 3394 participants.
+   - Link to competition: https://www.kaggle.com/competitions/playground-series-s5e2 
 
 ## **Dependencies**
 To run this project, install the required libraries:
